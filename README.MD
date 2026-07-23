@@ -2,4 +2,4 @@
 
 ![Preview](.thumbnail/thumbnail.png)
 
-**[View live presentation →](https://vigneshpraveen-official.github.io/Heuristic/)**
+**[View live presentation →](https://heuristic-vp.vercel.app/)**
